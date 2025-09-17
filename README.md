@@ -1,4 +1,4 @@
-## 📌 Projetos em destaque
+# 📌 Projetos em destaque
 
 - 🛒 **[Sistema de Controle de Vendas (Python + SQLite + Tkinter)](https://github.com/marcosviniciusribeiiro/sistema-controle-vendas)**  
   Projeto final de curso em Python com interface gráfica, CRUDs completos e integração com banco de dados.
