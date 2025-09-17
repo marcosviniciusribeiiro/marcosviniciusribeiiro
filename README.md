@@ -1,9 +1,3 @@
-# 👋 Olá, eu sou o Marcos Vinícius!
-
-Sou um desenvolvedor em constante aprendizado, explorando desde automações em Python até o desenvolvimento de sistemas completos com banco de dados e interfaces gráficas. Aqui você vai encontrar meus projetos de estudo e prática.
-
----
-
 ## 📌 Projetos em destaque
 
 - 🛒 **[Sistema de Controle de Vendas (Python + SQLite + Tkinter)](https://github.com/marcosviniciusribeiiro/sistema-controle-vendas)**  
