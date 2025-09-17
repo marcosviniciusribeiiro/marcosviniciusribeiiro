@@ -26,14 +26,6 @@ Sou um desenvolvedor em constante aprendizado, explorando desde automações em 
 
 ---
 
-## 🚀 Tecnologias que venho praticando
-- **Python** (Tkinter, SQLite, PyAutoGUI)  
-- **Java** (JPA, Hibernate)  
-- **MySQL**  
-- **Git e GitHub**  
-
----
-
 <h2 align="center">📊 Estatísticas do GitHub</h2>
 
 <div align="center">
