@@ -11,7 +11,7 @@ Sou um desenvolvedor em constante aprendizado, explorando desde automações em 
   Quiz interativo com timer, múltiplos temas e leitura dinâmica de perguntas via CSV.
 
 - ⚡ **[Automação com PyAutoGUI](https://github.com/marcosviniciusribeiiro/python-automacao)**  
-  Scripts ede automação de tarefas utilizando Python
+  Scripts de automação de tarefas utilizando Python
 
 ---
 
