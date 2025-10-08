@@ -4,7 +4,7 @@ Sou um desenvolvedor em constante aprendizado, explorando desde automações em 
 
 ## 🚀 Projetos em Destaque  
 
-- 🛒 **[Sistema de Controle de Vendas (Python + SQLite + Tkinter)](https://github.com/marcosviniciusribeiiro/sistema-controle-vendas)**  
+- 🛒 **[Sistema de Controle de Vendas (Python + SQLite + Tkinter)](https://github.com/marcosviniciusribeiiro/controle_de_vendas)**  
   Projeto final de curso em Python com interface gráfica, CRUDs completos e integração com banco de dados.
 
 - ❓ **[Quiz Temático em Go](https://github.com/marcosviniciusribeiiro/quiz-go)**  
