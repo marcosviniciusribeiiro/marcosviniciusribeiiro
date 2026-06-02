@@ -12,12 +12,3 @@ Sou um desenvolvedor em constante aprendizado, explorando desde automações em 
 
 - ⚡ **[Automação com PyAutoGUI](https://github.com/marcosviniciusribeiiro/python-automacao)**  
   Scripts de automação de tarefas utilizando Python
-
----
-
-<h2 align="center">📊 Estatísticas do GitHub</h2>
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marcosviniciusribeiiro&show_icons=true&theme=dracula"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosviniciusribeiiro&layout=compact&theme=dracula"/>
-</div>  
